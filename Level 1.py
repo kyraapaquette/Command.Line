@@ -1,6 +1,6 @@
 $ ssh bandit1@bandit.labs.overthewire.org -p 2220
 
-bandit1@bandit.labs.overthewire.org's password: ****************************************
+bandit1@bandit.labs.overthewire.org's password: (From Level 0)
 
 
 bandit1@bandit:~$ ls
@@ -148,7 +148,6 @@ Try 'cat --help' for more information.
 bandit1@bandit:~$ cat -- -git.txt
 cat: -git.txt: No such file or directory
 bandit1@bandit:~$ cat ./-
-*****************************
+(use for level 2 access)
+
 bandit1@bandit:~$ logout
-
-
