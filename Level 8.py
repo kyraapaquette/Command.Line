@@ -2,7 +2,7 @@ The password for the next level is stored in the file data.txt and is the only l
 
 $ ssh bandit8@bandit.labs.overthewire.org -p 2220 
 
-bandit8@bandit.labs.overthewire.org's password:(use access code from Level 6)
+bandit8@bandit.labs.overthewire.org's password:(use access code from Level 7)
 
 bandit8@bandit:~$ sort
 66TrUQVXbVR6ULKNouQCshyInYXqTYzE
